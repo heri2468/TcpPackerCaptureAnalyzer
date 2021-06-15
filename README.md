@@ -2,6 +2,7 @@
 
 This project is a Packet Capture Analyzer. Depending upon the values of fields, captured packet have, it generates the output as HTML file with the plot of graph for Number vs Packet Length field. It has also tshark, the command line version of wireshark, while development.
 
+
 COMPILING AND RUN
 1. Install Virtualenv by command python3 -m pip install virtualenv
 2. Create a virtual environment by command virtualenv env
