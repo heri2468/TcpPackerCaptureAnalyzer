@@ -1,6 +1,6 @@
-# TcpPackerCaptureAnalyzer
+# TcpPacketCaptureAnalyzer
 
-This project is a Packet Capture Analyzer. Depending upon the values of fields, captured packet have, it generates the output as HTML file with the plot of graph for Number vs Packet Length field. It has also tshark, the command line version of wireshark, while development.
+This project is a TCP Packet Capture Analyzer. Depending upon the values of fields, captured packet have, it generates the output as HTML file with the plot of graph for Number vs Packet Length field. It has also tshark, the command line version of wireshark, while development.
 
 
 COMPILING AND RUN
